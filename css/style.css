@@ -7,13 +7,13 @@
 header{
     background-color:#E6E6E6 ;
 }
+body{
+    font-family: 'Times New Roman', Times, serif;
+
+}
 
 h1 {
-    background-color: #C4C4C4;
-    font-family: Times New Roman;
-    font-size: 30px;
-    font-weight: 700;
-    line-height: 30px;    
+    background-color: #C4C4C4;  
     text-align: center;
     color: #005677;
     letter-spacing: 5px;
@@ -21,7 +21,7 @@ h1 {
 }
 
 h2 {
-    font-family: 'Times New Roman', Times, serif;
+    
     font-size: 20px;
     line-height: 17px;
     color: #005677;
